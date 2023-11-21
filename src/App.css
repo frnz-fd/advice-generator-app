@@ -1,0 +1,15 @@
+#root {
+  background-color: hsl(218, 23%, 16%);
+  height:100vh;
+  width:100vw;
+}
+
+#button-dice{
+  box-shadow: 0 0 30px 1px #3df6a0;
+}
+
+.divider {
+  width: 444px;
+  height: 16px;
+  margin: 10px auto;
+}
